@@ -2,7 +2,7 @@
 // @name         Undercads : Hide Opponent
 // @match        https://*.undercards.net/Game
 // @exclude      https://*.undercards.net/Play
-// @version      0.1
+// @version      1.0
 // @description  try to take over the world!
 // @author       Brittle Dread
 // @match        https://undercards.net/Quests
