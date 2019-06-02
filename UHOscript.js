@@ -3,7 +3,7 @@
 // @match        https://*.undercards.net/Game
 // @exclude      https://*.undercards.net/Play
 // @version      1.0
-// @description  try to take over the world!
+// @description  Hide opponent's usernames and LV until hovered
 // @author       Brittle Dread
 // @match        https://undercards.net/Quests
 // @grant        none
